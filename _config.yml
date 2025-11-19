@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Your Site Title"
-email: &EMAIL "username@example.edu"
+email: &EMAIL "dana.ernst@nau.edu"
 description:
   Yooooooo!
-github_username: &GITHUB username
+github_username: &GITHUB dcernst
 minimal_mistakes_skin: default
 search: true
 
